@@ -4,6 +4,8 @@ Bienvenidos a este curso, podras encontrar los archivos que explico durante cada
 
 También econtraras una carpeta con ejercicios separado según el nivel del contenido entregado.
 
+![Python3 Tutorial hecho por cristhianjhl.com](/images/landscape.jpg)
+
 ## Lista de Video (En Proceso)
 
 - [Introducción](https://www.youtube.com/watch?v=aSWEgciWWKY)
@@ -28,6 +30,13 @@ En realidad no necesitas ningún tipo de experiencia para ver este curso, pero s
 1. [Introducción](https://youtu.be/Ga9jlolNDXA)
 2. [Resolución de Problemas](https://youtu.be/NTvnxHqwCS0)
 3. [Elementos Comunes de un Programa](https://youtu.be/Yk1GDyMnWWM)
+
+## Como usar
+
+- Si usas Git puedes clonar el repositorio `https://github.com/cristhianjhlcom/python3-tutorial`
+- Si no puedes descargar todo el proyecto de manera manual.
+
+![Descarga de Projecto](/images/repo.png)
 
 ## Lo que yo uso
 
