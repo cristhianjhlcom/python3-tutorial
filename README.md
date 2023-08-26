@@ -12,7 +12,7 @@ También econtraras una carpeta con ejercicios separado según el nivel del cont
 - [Tipos de Datos & Casting](https://www.youtube.com/watch?v=gIn7f-EMV9s)
 - [Operadores](https://www.youtube.com/watch?v=3GmyK9PufGE)
 - [Estructuras de Control](https://www.youtube.com/watch?v=96-ZpY_vkWQ)
-- [Funciones]()
+- [Funciones](https://youtu.be/x0w_zeT6jJk?si=tPeBi5XMdPeo-UNy)
 
 ## Requesitos Minimos
 
@@ -22,6 +22,12 @@ También econtraras una carpeta con ejercicios separado según el nivel del cont
 4. Conocimientos sobre fundamentos de programación (opcional)
 
 En realidad no necesitas ningún tipo de experiencia para ver este curso, pero seria recomendable si ves primero los [Fundamentos de la Programación](https://www.youtube.com/watch?v=NTvnxHqwCS0&list=PLs6-qUGNfXBkCT_9FjNMDjxMYglF5Tk-B) para que se te sea mucho más fácil abordar los conceptos que veremos en todo este tutorial de Python3 🐍.
+
+### Fundamentos de la Programación
+
+1. [Introducción](https://youtu.be/Ga9jlolNDXA)
+2. [Resolución de Problemas](https://youtu.be/NTvnxHqwCS0)
+3. [Elementos Comunes de un Programa](https://youtu.be/Yk1GDyMnWWM)
 
 ## Lo que yo uso
 
