@@ -1,4 +1,4 @@
-## Suma de los pares y Suma de los impares
+# Suma de los pares y Suma de los impares
 # Dado un conjunto de números enteros,
 # se te pide que escribas un programa que calcule la suma de los números pares
 # y la suma de los números impares en ese conjunto por separado.

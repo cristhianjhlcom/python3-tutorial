@@ -9,3 +9,12 @@
 # Usar el builtin function de python 'input'
 # La respuesta del usuario almacenalo en variables.
 # Utiliza los formatos de strings para imprimir tu mensaje.
+def team_name_generator():
+    print("Welcome to The Team Name Generator 🎳")
+    city = input("En que ciudad naciste? ")
+    animal = input("Cuál es tu animal favorito? ")
+    return f"Los {animal} de {city}"
+
+
+team_name = team_name_generator()
+print(team_name)

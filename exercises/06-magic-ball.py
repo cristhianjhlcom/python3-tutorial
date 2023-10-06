@@ -25,4 +25,33 @@
 # Si no es ninguno almacena "Error"
 # Imprime algo con este formato "[nombre] asks: [pregunta]"
 # Imprime algo con este formato "La bola mágica 8 🎱 responde: [respuesta]"
+import random
 
+user_name = input("Cuál es tu nombre? ")
+user_question = input("Que te gustaria preguntarle a la bola mágica? ")
+asnwer = ""
+random_number = random.randint(1, 9)
+
+if random_number == 1:
+    answer = "Si - Definitivamente"
+elif random_number == 2:
+    answer = "Es decididamente así"
+elif random_number == 3:
+    answer = "Sin ninguna duda"
+elif random_number == 4:
+    answer = "Respuesta confusa, intenta otra vez"
+elif random_number == 5:
+    answer = "Pregunta de nuevo más tarde"
+elif random_number == 6:
+    answer = "Mejor no decirte ahora"
+elif random_number == 7:
+    answer = "Mis fuentes dicen que no"
+elif random_number == 8:
+    answer = "No es una vista muy prometedora"
+elif random_number == 9:
+    answer = "Muy cuestionable"
+else:
+    answer = "Error: número aleatorio incorrecto"
+
+print(f"{user_name} asks: {user_question}")
+print(f"La bola mágica 8 🎱 responde: {answer}")

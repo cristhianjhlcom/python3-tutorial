@@ -10,3 +10,4 @@
 # 5. Si encontramos un espacio en blanco, incrementar el contador de palabras en 1.
 # 6. Continuar el proceso hasta que hayamos recorrido toda la cadena.
 # 7. Al final, mostrar el número de palabras.
+
